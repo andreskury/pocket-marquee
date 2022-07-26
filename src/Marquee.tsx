@@ -1,5 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useEffect, useState } from "react"
 import "./App.css"
 import styled, { keyframes } from "styled-components"
