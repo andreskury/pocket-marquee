@@ -139,7 +139,8 @@ const colors = [
     {name: "Plum", backgroundColor: "#3E206E", color: "#F0E3FF"},
     {name: "Zucchini", backgroundColor: "#E4F0C2", color: "#32AEA9"},
     {name: "Strong", backgroundColor: "#CB0064", color: "#FFCD01"},
-    {name: "Soft", backgroundColor: "#C0EDDB", color: "#3D6557"}
+    {name: "Soft", backgroundColor: "#C0EDDB", color: "#3D6557"},
+    {name: "Electric", backgroundColor: "#3C392F", color: "#0000FF"}
 ]
 
 
